@@ -1,0 +1,2 @@
+hi, I have started practising git features.
+This is my initial commit.
